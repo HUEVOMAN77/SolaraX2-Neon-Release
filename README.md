@@ -18,6 +18,10 @@ La APK no incluye juegos ni BIOS. El usuario debe utilizar únicamente archivos 
 | [`SolaraX2-v0.1.apk.sha256`](./SolaraX2-v0.1.apk.sha256) | Hash SHA-256 de la APK |
 | [`LICENSE.md`](./LICENSE.md) | Licencia GPLv3 |
 
+### Descarga directa
+
+[**Descargar SolaraX2 v0.1 directamente desde GitHub**](https://github.com/HUEVOMAN77/SolaraX2-Neon-Release/raw/refs/heads/main/SolaraX2-v0.1.apk)
+
 **SHA-256:**
 
 ```text
